@@ -30,11 +30,11 @@
 
   // Set up initial map center and zoom level
   var map = L.map('map', {
+    preferCanvas: true,
     center: [50.1013246, 8.6264258], // EDIT latitude, longitude to re-center map
-    zoom: 5,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
-    scrollWheelZoom: true,
-    tap: false
-  });
+    zoom: 6,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
+    scrollWheelZoom: true
+    });
 
   /* Control panel to display map layers */
   var controlLayers = L.control.layers( null, null, {
