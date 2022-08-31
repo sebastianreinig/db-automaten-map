@@ -1,6 +1,6 @@
 # DB Automaten auf einer Karte
-Zeigt die DB-Automaten auf einer Karte an.
-Die Datenquelle enthält nur Postleitzahlen, daher wurde eine Umfomartierung gemacht.
+DZeigt die DB-Automaten auf einer Karte an.
+Die Datenquelle enthält nur Postleitzahlen, daher wurde ein Mapping gemacht.
 Danke an: https://github.com/WZBSocialScienceCenter/plz_geocoord/
 
 # Datenquelle:
