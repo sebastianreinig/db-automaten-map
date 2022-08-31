@@ -14,3 +14,7 @@ Die Daten kommen aus folgendem JSON, welches öffentlich zugänglich ist.
 Folgende Karte wurde als Basis genommen:
 https://handsondataviz.github.io/leaflet-map-csv/
 
+
+# Verbesserungspotenzial
+- Geschwindigkeit
+- Suche
