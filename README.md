@@ -1,5 +1,6 @@
 # DB Automaten auf einer Karte
-DZeigt die DB-Automaten auf einer Karte an.
+Die Anwendung zeigt die DB-Automaten auf einer Karte an.
+
 Die Datenquelle enthält nur Postleitzahlen, daher wurde ein Mapping gemacht.
 Danke an: https://github.com/WZBSocialScienceCenter/plz_geocoord/
 
@@ -11,12 +12,16 @@ Die Daten kommen aus folgendem JSON, welches öffentlich zugänglich ist.
 Hier sind die Daten als xlsx zu finden:
 https://github.com/sebastianreinig/db-automaten-map/blob/22583e858c75fef8e9309a46c64bb96122d2e356/dbautomaten.xlsx
 
+# Demo
+![Bildschirmfoto 2022-09-01 um 22 30 44](https://user-images.githubusercontent.com/18229650/188006488-3b28ac76-f3a2-458a-8294-1efb4ad4f41d.png)
+https://sebastianreinig.github.io/db-automaten-map/
 
 # Danke
+
 Folgende Karte wurde als Basis genommen:
 https://handsondataviz.github.io/leaflet-map-csv/
 
 
 # Verbesserungspotenzial
-- Geschwindigkeit
 - Suche
+- Umgang mit mehreren Daten pro Marker (ggf. vorher aggregieren oÄ)
