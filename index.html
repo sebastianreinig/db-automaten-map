@@ -36,7 +36,7 @@
     scrollWheelZoom: true
     });
 
-  /* Control panel to display map layers */
+  /* Control panel to display map layers 
   var controlLayers = L.control.layers( null, null, {
     position: "topright",
     collapsed: false
@@ -47,7 +47,14 @@
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attribution">CARTO</a>'
   }).addTo(map); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
   controlLayers.addBaseLayer(light, 'Carto Light basemap');
-
+  */
+  var openrailwaymap = new L.TileLayer('http://{s}.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png',
+{
+	attribution: '<a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors</a>, Style: <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA 2.0</a> <a href="http://www.openrailwaymap.org/">OpenRailwayMap</a> and OpenStreetMap',
+	minZoom: 2,
+	maxZoom: 19,
+	tileSize: 256
+}).addTo(map);
 
 
   // see more basemap options at https://leaflet-extras.github.io/leaflet-providers/preview/
