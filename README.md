@@ -22,5 +22,5 @@ https://handsondataviz.github.io/leaflet-map-csv/
 
 
 # Verbesserungspotenzial
-- Geschwindigkeit
 - Suche
+- Umgang mit mehreren Daten pro Marker (ggf. vorher aggregieren oÄ)
