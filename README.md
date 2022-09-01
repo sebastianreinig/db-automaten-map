@@ -1,5 +1,6 @@
 # DB Automaten auf einer Karte
-DZeigt die DB-Automaten auf einer Karte an.
+Die Anwendung zeigt die DB-Automaten auf einer Karte an.
+
 Die Datenquelle enthält nur Postleitzahlen, daher wurde ein Mapping gemacht.
 Danke an: https://github.com/WZBSocialScienceCenter/plz_geocoord/
 
