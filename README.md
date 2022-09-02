@@ -18,9 +18,6 @@ https://github.com/sebastianreinig/db-automaten-map/blob/22583e858c75fef8e9309a4
 https://sebastianreinig.github.io/db-automaten-map/
 
 
-# Installation
-
-
 # Danke/Credits
 
 Folgende Karte wurde als Basis genommen:
