@@ -4,6 +4,7 @@ Die Anwendung zeigt die DB-Automaten auf einer Karte an.
 Die Datenquelle enthält nur Postleitzahlen, daher wurde ein Mapping gemacht.
 Danke an: https://github.com/WZBSocialScienceCenter/plz_geocoord/
 
+
 # Datenquelle
 **https://www.bahn.de/service/buchung/wege_zur_fahrkarte/automat**
 Die Daten kommen aus folgendem JSON, welches öffentlich zugänglich ist.
@@ -20,12 +21,8 @@ https://sebastianreinig.github.io/db-automaten-map/
 # Installation
 
 
-# Danke
+# Danke/Credits
 
 Folgende Karte wurde als Basis genommen:
 https://handsondataviz.github.io/leaflet-map-csv/
-
-
-# Verbesserungspotenzial
-- Suche
-- Umgang mit mehreren Daten pro Marker (ggf. vorher aggregieren oÄ)
+https://github.com/stefanocudini/leaflet-search
