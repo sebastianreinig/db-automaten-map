@@ -98,10 +98,12 @@ controlLayers.addBaseLayer(openrailwaymap, 'Open Railway Map');
       var row = data[i];
 
       var marker = L.circleMarker([row.Latitude, row.Longitude], {
-        opacity: 1
+        title: row.Title
       }).bindPopup(row.Title);
-      
-      marker.addTo(map);
+      markersLayer.addLayer(marker);
+ 
+//      marker.addTo(map);
+    
     }
 
   });
