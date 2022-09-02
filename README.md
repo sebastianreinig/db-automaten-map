@@ -4,7 +4,7 @@ Die Anwendung zeigt die DB-Automaten auf einer Karte an.
 Die Datenquelle enthält nur Postleitzahlen, daher wurde ein Mapping gemacht.
 Danke an: https://github.com/WZBSocialScienceCenter/plz_geocoord/
 
-# Datenquelle:
+# Datenquelle
 **https://www.bahn.de/service/buchung/wege_zur_fahrkarte/automat**
 Die Daten kommen aus folgendem JSON, welches öffentlich zugänglich ist.
 ![Bildschirmfoto 2022-08-31 um 20 53 46](https://user-images.githubusercontent.com/18229650/187759814-c8a8969a-afb7-4b71-9e54-1efee8e2d919.png)
@@ -15,6 +15,10 @@ https://github.com/sebastianreinig/db-automaten-map/blob/22583e858c75fef8e9309a4
 # Demo
 ![Bildschirmfoto 2022-09-01 um 22 30 44](https://user-images.githubusercontent.com/18229650/188006488-3b28ac76-f3a2-458a-8294-1efb4ad4f41d.png)
 https://sebastianreinig.github.io/db-automaten-map/
+
+
+# Installation
+
 
 # Danke
 
