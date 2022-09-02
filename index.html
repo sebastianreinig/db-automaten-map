@@ -50,6 +50,12 @@
   */
 
 
+  var OpenStreetMap_DE = new L.tileLayer('https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
+	maxZoom: 18,
+	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+});
+controlLayers.addBaseLayer(OpenStreetMap_DE, 'OpenStreetMap_DE');
+
   var openrailwaymap = new L.TileLayer('http://{s}.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png',
 {
 	attribution: '<a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors</a>, Style: <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA 2.0</a> <a href="http://www.openrailwaymap.org/">OpenRailwayMap</a> and OpenStreetMap',
@@ -59,12 +65,6 @@
 }).addTo(map);
 controlLayers.addBaseLayer(openrailwaymap, 'openrailwaymap');
 
-
-var OpenStreetMap_DE = new L.tileLayer('https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
-	maxZoom: 18,
-	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-});
-controlLayers.addBaseLayer(OpenStreetMap_DE, 'OpenStreetMap_DE');
 
 
 
