@@ -1633,8 +1633,8 @@ Sindorf;50170;Bahnsteig;50.8780618;6.6014193;Bahnsteig - Sindorf - 50170
 Buir;50170;Bahnsteig 1 Richtung Aachen;50.8780618;6.6014193;Bahnsteig 1 Richtung Aachen - Buir - 50170
 Sindorf;50170;Zugang Bahnsteig;50.8780618;6.6014193;Zugang Bahnsteig - Sindorf - 50170
 Bedburg (Erft);50181;Bahnsteig;51.0188788;6.5167885;Bahnsteig - Bedburg (Erft) - 50181
-Salzburg Hbf;5020;Bahnhofshalle;#NV;#NV;Bahnhofshalle - Salzburg Hbf - 5020
-Salzburg Hbf;5020;Bahnhofshalle;#NV;#NV;Bahnhofshalle - Salzburg Hbf - 5020
+Salzburg Hbf;5020;Bahnhofshalle;47.811195;13.033229;Bahnhofshalle - Salzburg Hbf - 5020
+Salzburg Hbf;5020;Bahnhofshalle;47.811195;13.033229;Bahnhofshalle - Salzburg Hbf - 5020
 Frechen-Königsdorf;50226;am Bahnhofsgebäude;50.9089383;6.7920994;am Bahnhofsgebäude - Frechen-Königsdorf - 50226
 Pulheim;50259;Bahnsteig 2 Ri. Köln;50.9930323;6.7862878;Bahnsteig 2 Ri. Köln - Pulheim - 50259
 Stommeln;50259;Zugang Personenunterführung;50.9930323;6.7862878;Zugang Personenunterführung - Stommeln - 50259
@@ -3203,7 +3203,7 @@ Eschelbronn;74927;Bahnsteig;49.3192145;8.8644297;Bahnsteig - Eschelbronn - 74927
 Ittlingen;74930;Bahnsteig;49.1924414;8.9319042;Bahnsteig - Ittlingen - 74930
 Neidenstein;74933;Bahnsteig;49.3228998;8.8995278;Bahnsteig - Neidenstein - 74933
 Zuzenhausen;74939;Bahnsteig;49.2967973;8.8226362;Bahnsteig - Zuzenhausen - 74939
-Enschede CS (Niederlande);7500;Gleis 5;#NV;#NV;Gleis 5 - Enschede CS (Niederlande) - 7500
+Enschede CS (Niederlande);7500;Gleis 5;52.2215372;6.8936619;Gleis 5 - Enschede CS (Niederlande) - 7500
 Bretten Schulzentrum;75015;Bahnsteig;49.0462944;8.7160376;Bahnsteig - Bretten Schulzentrum - 75015
 Bauerbach;75015;Bahnsteig;49.0462944;8.7160376;Bahnsteig - Bauerbach - 75015
 Gölshausen;75015;Bahnsteig;49.0462944;8.7160376;Bahnsteig - Gölshausen - 75015
