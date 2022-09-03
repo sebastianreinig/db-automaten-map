@@ -18,9 +18,7 @@ https://github.com/sebastianreinig/db-automaten-map/blob/22583e858c75fef8e9309a4
 https://sebastianreinig.github.io/db-automaten-map/
 
 # Bekannte Fehler
-1) Es gibt in den Daten noch ein Fehler mit führenden Nullen, daher fehlen in der Gegend von Dresden und Leipzig die Automaten.
-2) Umgang mit mehreren Automaten pro Marker:
-3)  ![Bildschirmfoto 2022-09-03 um 11 01 43](https://user-images.githubusercontent.com/18229650/188263772-e8ab8de2-c7ee-444e-8c2c-89c2d6d30573.png
+1) Umgang mit mehreren Automaten pro Marker:  ![Bildschirmfoto 2022-09-03 um 11 01 43](https://user-images.githubusercontent.com/18229650/188263772-e8ab8de2-c7ee-444e-8c2c-89c2d6d30573.png)
 
 
 # Danke/Credits
